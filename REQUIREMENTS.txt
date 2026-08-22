@@ -1,0 +1,2 @@
+REQUIREMENTS:
+mysql-connector-python: Connects the python code to MYSQL database
